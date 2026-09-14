@@ -1,0 +1,13 @@
+# Python environment
+venv/
+env/
+ENV/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
